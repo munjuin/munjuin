@@ -1,4 +1,10 @@
-## Hi there 👋
+### 👋 Hi there!
+
+저는 풀스택 개발자를 꿈꾸는 문주인입니다.
+제가 공부한 내용을 정리하는 기술 블로그를 운영하고 있습니다.
+
+## 🚀 My Tech Blog
+👉 **[블로그 구경가기 (Click!)](https://munjuin.github.io)**
 
 <!--
 **munjuin/munjuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

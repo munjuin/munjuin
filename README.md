@@ -20,21 +20,21 @@
 ## 🚀 Projects Highlight
 *아래 Pinned Repositories 프로젝트들의 **개발 의도(Why & How)**입니다.*
 
-### 1. Local AI Office Automator (New!)
+### 1. Jewelry Shop Project
+**"프레임워크 없이 순수 Node.js로 구축하는 견고한 아키텍처"**
+- **문제 의식:** 추상화된 프레임워크 뒤에 숨겨진 `MVC 패턴`과 `DB 설계`의 본질을 직접 체감하고 싶었습니다.
+- **해결 접근:** 현재 JS 기반의 MVP를 **TypeScript로 마이그레이션** 중이며, JSON 타입을 활용한 유연한 옵션 설계로 대규모 데이터 처리의 안정성을 확보하고 있습니다.
+
+### 2. Local AI Office Automator
 **"프라이버시를 보장하는 로컬 AI 워크플로우 엔진 구축"**
 - **문제 의식:** 클라우드 AI 서비스의 데이터 유출 우려 없이, 폐쇄망 환경에서도 동작하는 업무 자동화 도구의 필요성을 느꼈습니다.
 - **해결 접근:** - **Local LLM Orchestration:** 외부 API 의존성 없이 로컬 환경에서 LLM을 구동하고 제어하는 로직 설계.
     - **Task Automation:** 단순 챗봇을 넘어 파일 시스템, 오피스 문서 등과 상호작용하는 백엔드 에이전트 구조 구현.
 
-### 2. ts-lodashtype-definition
+### 3. ts-lodashtype-definition
 **"타입 시스템의 한계를 시험하고 정교한 설계 능력 기르기"**
 - **문제 의식:** 복잡한 유틸리티 라이브러리가 어떻게 전 세계 개발자에게 완벽한 추론을 제공하는지 그 원리가 궁금했습니다.
 - **해결 접근:** `Generics`, `Conditional Types`, `Mapped Types`를 활용해 Lodash 핵심 함수를 직접 정의하며 **정적 분석의 신뢰성**을 극대화했습니다.
-
-### 3. Jewelry Shop Project
-**"프레임워크 없이 순수 Node.js로 구축하는 견고한 아키텍처"**
-- **문제 의식:** 추상화된 프레임워크 뒤에 숨겨진 `MVC 패턴`과 `DB 설계`의 본질을 직접 체감하고 싶었습니다.
-- **해결 접근:** 현재 JS 기반의 MVP를 **TypeScript로 마이그레이션** 중이며, JSON 타입을 활용한 유연한 옵션 설계로 대규모 데이터 처리의 안정성을 확보하고 있습니다.
 
 ### 4. create-express-esm (NPM Package)
 **"반복되는 초기 설정의 자동화와 최신 표준(ESM) 도입"**

@@ -1,10 +1,10 @@
-### 안녕하세요, 코드의 '작동'보다 작동하는 '원리'에 집중하는 백엔드 개발자 문주인입니다.
+# 안녕하세요, 코드의 '작동'보다 작동하는 '원리'에 집중하는 백엔드 개발자 문주인입니다.
 
 "단순 기능 구현"보다 **"기술적 한계를 어떻게 극복했는가"**와 **"왜 이 기술을 선택했는가(First Principles)"**를 집요하게 봅니다. 바퀴를 다시 발명하며 원리를 이해하는 과정을 즐기며, 최근에는 보안 중심의 로컬 LLM과 RAG 파이프라인 연동을 통한 지능형 업무 자동화 시스템 구축에 집중하고 있습니다.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Classification | Technology |
 | --- | --- |
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Projects Highlight
+##  Projects Highlight
 
 *아래 Pinned Repositories 프로젝트들의 **개발 의도(Why & How)***입니다.
 
@@ -45,7 +45,7 @@
 
 ---
 
-## 🗺️ Migration & Learning Roadmap
+##  Migration & Learning Roadmap
 
 현재 완성된 MVP들을 바탕으로 기술적 성장을 위한 단계적 고도화를 진행하고 있습니다.
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📬 Contact
+##  Contact
 
 언제든 소통을 환영합니다.
 * **Email:** raiawa1212@gmail.com

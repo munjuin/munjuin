@@ -17,8 +17,6 @@
 
 ##  Projects Highlight
 
-*아래 Pinned Repositories 프로젝트들의 **개발 의도(Why & How)***입니다.
-
 ### 1. Local AI Office Automator (사내 문서 특화 RAG AI 비서)
 > **"보안이 중요한 사내 문서를 외부 유출 없이 처리하는 로컬 LLM 시스템 구축"**
 * **문제 의식:** 민감한 사내 문서를 외부 클라우드 AI(ChatGPT 등)에 전송할 때 발생하는 데이터 보안 위험을 원천 차단하고자 했습니다.

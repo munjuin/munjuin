@@ -56,6 +56,5 @@
 
 ##  Contact
 
-언제든 소통을 환영합니다.
 * **Email:** raiawa1212@gmail.com
 * **GitHub:** [https://github.com/munjuin](https://github.com/munjuin)
